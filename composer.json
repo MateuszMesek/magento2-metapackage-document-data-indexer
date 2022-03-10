@@ -5,9 +5,6 @@
     "license": [
         "MIT"
     ],
-    "replace": {
-        "mateuszmesek-magento2/metapackage-document-data": "*"
-    },
     "require": {
         "mateuszmesek-magento2/module-document-data-catalog-category-indexer": "*",
         "mateuszmesek-magento2/module-document-data-catalog-category-mview": "*",
