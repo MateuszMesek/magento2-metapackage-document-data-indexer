@@ -10,6 +10,10 @@
         "mateuszmesek-magento2/module-document-data-catalog-category-mview": "*",
         "mateuszmesek-magento2/module-document-data-catalog-product-indexer": "*",
         "mateuszmesek-magento2/module-document-data-catalog-product-mview": "*",
+        "mateuszmesek-magento2/module-document-data-cms-block-indexer": "*",
+        "mateuszmesek-magento2/module-document-data-cms-block-mview": "*",
+        "mateuszmesek-magento2/module-document-data-cms-page-indexer": "*",
+        "mateuszmesek-magento2/module-document-data-cms-page-mview": "*",
         "mateuszmesek-magento2/module-document-data-indexer-db": "*"
     }
 }
