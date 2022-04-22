@@ -14,6 +14,6 @@
         "mateuszmesek-magento2/module-document-data-cms-block-mview": "*",
         "mateuszmesek-magento2/module-document-data-cms-page-indexer": "*",
         "mateuszmesek-magento2/module-document-data-cms-page-mview": "*",
-        "mateuszmesek-magento2/module-document-data-indexer-db": "*"
+        "mateuszmesek-magento2/module-document-data-cms-page-queue": "*"
     }
 }
